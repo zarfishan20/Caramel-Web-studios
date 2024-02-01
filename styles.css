@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Custom styles for the caramel theme */
+body {
+    padding-top: 56px; /* Adjusted for fixed navbar height */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #ffdfb4; /* Caramel color */
+    color: #333; /* Dark text on caramel background */
+    text-align: center;
+    padding: 1em;
+}
+main {
+    max-width: 800px; 
+    margin: 2em auto;
+    padding: 1em;
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #ffdfb4; /* Caramel color */
+    color: #333; /* Dark text on caramel background */
+}
